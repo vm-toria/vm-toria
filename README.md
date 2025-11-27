@@ -1,17 +1,10 @@
 <p align="center">
 <div align="center" style="line-height:0;">
-  <!-- Top wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38A169&height=80" style="transform: scaleY(-1); margin-bottom:-10px;" />
-
-  <!-- Main content -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38A169&height=240&text=Vika%20Makarenko&fontSize=42&fontColor=ffffff&textAlign=center&textAlignY=40&desc=Frontend%20Developer%20%7C%20UX%2FUI%20Focused&descSize=20&descAlign=center&descAlignY=65" style="margin-top:-10px; margin-bottom:-10px;" />
-
-  <!-- Bottom wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38A169&height=80" style="margin-top:-10px;" />
+<div align="center" style="background:#38A169;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38A169&height=80" style="transform: scaleY(-1); display:block;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38A169&height=220&text=Vika%20Makarenko&fontSize=42&fontColor=ffffff&textAlign=center&textAlignY=45&desc=Frontend%20Developer%20%7C%20UX%2FUI%20Focused&descSize=20&descAlign=center&descAlignY=65" style="display:block;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38A169&height=80" style="display:block;" />
 </div>
-
-
-
 <p align="center">
   <em>⚛️ **Frontend Developer** • UX/UI Designer • 5+ Years Experience</em>
 </p>
