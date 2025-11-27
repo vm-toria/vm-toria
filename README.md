@@ -1,6 +1,11 @@
 <p align="center">
+<!-- Top wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=38A169&height=80&section=header" style="transform: scaleY(-1);" />
-</p>
+<!-- Main content -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=38A169&height=240&text=Vika%20Makarenko&fontSize=42&fontColor=ffffff&textAlign=center&textAlignY=40&desc=Frontend%20Developer%20%7C%20UX%2FUI%20Focused&descSize=20&descAlign=center&descAlignY=65"/>
+<!-- Bottom wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=38A169&height=80&section=footer" />
+
 
 <p align="center">
   <em>⚛️ **Frontend Developer** • UX/UI Designer • 5+ Years Experience</em>
