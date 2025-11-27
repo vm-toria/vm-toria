@@ -2,7 +2,8 @@
 <div align="center" style="line-height:0;">
 <div align="center" style="background:#38A169;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=38A169&height=80" style="transform: scaleY(-1); display:block;" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38A169&height=220&text=Vika%20Makarenko&fontSize=42&fontColor=ffffff&textAlign=center&textAlignY=45&desc=Frontend%20Developer%20%7C%20UX%2FUI%20Focused&descSize=20&descAlign=center&descAlignY=65" style="display:block;" />
+ <p>Vika Makaranka
+ </p>Frontend Developer with UX UI Expertize
   <img src="https://capsule-render.vercel.app/api?type=waving&color=38A169&height=80" style="display:block;" />
 </div>
 <p align="center">
