@@ -1,7 +1,9 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=38A169&height=260&text=Vika%20Makaranka&fontSize=44&fontColor=ffffff&textAlign=center&textAlignY=45&desc=Frontend%20Developer%20with%20UX%2FUI%20Expertise&descSize=20&descAlign=center&descAlignY=62" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=38A169&height=140&section=header&text=Vika%20—%20Frontend%20+%20UX%20Engineer%20👩‍💻✨&fontSize=32&fontColor=ffffff" />
+</p>
+
 <p align="center">
-  <em>⚛️ **Frontend Developer** • UX/UI Designer • 5+ Years Experience</em>
+  <em>⚛️ **Frontend Developer** • UX/UI Expertise • 5+ Years Experience</em>
 </p>
 
 ---
@@ -77,16 +79,12 @@ Seeking teams that value:
 
 ## 📫 Contact
 
-* 📧 **Email: vm.viktoryia.makaranka@gmail.com 
-* 💼 **LinkedIn: https://www.linkedin.com/in/viktoryia-makaranka-2410661a6/
-* 🌐 **Portfolio/Site:
+* 📧 **Email:** vm.viktoryia.makaranka@gmail.com
+* 💼 **LinkedIn:** [Viktoryia Makaranka](https://www.linkedin.com/in/viktoryia-makaranka-2410661a6/)
+* 🌐 **Portfolio/Site:** *(Please insert your portfolio link here)*
 
 ---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=38A169&height=90&section=footer&text=Code%20with%20attitude.%20Design%20with%20vision.%20&fontSize=18&fontColor=ffffff" />
 </p>
-
-
-
-
