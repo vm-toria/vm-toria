@@ -1,11 +1,5 @@
 <p align="center">
-<div align="center" style="line-height:0;">
-<div align="center" style="background:#38A169;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38A169&height=80" style="transform: scaleY(-1); display:block;" />
- <p>Vika Makaranka
- </p>Frontend Developer with UX UI Expertize
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38A169&height=80" style="display:block;" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=38A169&height=260&text=Vika%20Makaranka&fontSize=44&fontColor=ffffff&textAlign=center&textAlignY=45&desc=Frontend%20Developer%20with%20UX%2FUI%20Expertise&descSize=20&descAlign=center&descAlignY=62" />
 <p align="center">
   <em>⚛️ **Frontend Developer** • UX/UI Designer • 5+ Years Experience</em>
 </p>
