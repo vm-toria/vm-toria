@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=38A169&height=140&section=header&text=Vika%20—%20Frontend%20Developer%20+%20UX%2FUI%20Designer%20👩‍💻✨&fontSize=32&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:38A169,100:0F3D2E&height=160&section=header&text=Vika%20Makarenko&fontSize=38&fontColor=ffffff&desc=Frontend%20Developer%20%7C%20UX%2FUI%20Focused&descSize=18&descAlignY=70" />
 </p>
 
 <p align="center">
